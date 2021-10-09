@@ -121,7 +121,7 @@ const addToCart = (id) => {
 
 const buyNow = () => {
     let number = PhoneNumber;
-    let message = `Hi Provider i would like to by the following product,
+    let message = `Hi Friends readymade, i would like to by the following product,
 `;
 
     message += `

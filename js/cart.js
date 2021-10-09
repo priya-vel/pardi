@@ -119,7 +119,7 @@ const checkout = () => {
     const data = JSON.parse(localStorage.getItem("cart")).cart
 
     let number = PhoneNumber;
-    let message = `Hi Provider i would like to by the following product,
+    let message = `Hi Friends readymade, i would like to by the following product,
 `;
 console.log(data);
     if (!!data.length) {
